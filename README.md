@@ -1,4 +1,4 @@
-# App-Mercado-Garcia
+# Descrição do Projeto
   Aplicativo desenvolvido na disciplina Projeto e Desenvolvimento de Softwares para um mercado da cidade de Birigui, SP - Brasil.
 
   Foi solicitado pelo dono do Mercado Garcia um App Android que permitisse ao usuário realizar o login com o facebook, scanear o código de barras dos produtos e indicar o preço de produtos scaneados em todas as filiais do mercado, mostrando também as rotas de onde o usuário se encontra até essas filiais e a imagem do produto que teve seu código de barra scaneado.
